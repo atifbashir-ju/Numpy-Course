@@ -1,6 +1,4 @@
 import numpy as np
-Atif = np.array([1, 2, 3, 4, 5])
-Atif1 = Atif.view()
-Atif[0] = 42
+Atif = np.array([1, 2, 3, 4, 5], ndmin = 5)
 print(Atif)
-print(Atif1)
+print('shape of array is: ', Atif.shape)
