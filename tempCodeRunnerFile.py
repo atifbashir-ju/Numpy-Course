@@ -1,3 +1,6 @@
 import numpy as np
-Atif = np.array([[8, 4], [2, 1]])
-print(np.sort(Atif))
+Atif = np.array([41, 42, 43, 44])
+Atifempty = Atif > 42
+Atifnew = Atif[Atifempty]
+print(Atifempty)
+print(Atifnew)
