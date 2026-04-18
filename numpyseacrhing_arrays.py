@@ -4,13 +4,12 @@ Atif = np.array([1, 2, 3, 4, 5, 4, 4])
 Atifnew = np.where(Atif ==4)
 print(Atifnew)
 
-#find indexs where the value are even
 import numpy as np
 Atif = np.array([1, 2, 3, 4, 5, 6, 7, 8])
 Atifnew = np.where(Atif % 2 == 0)
 print(Atifnew)
 
-#odd number
+
 import numpy as np
 Atif = np.array([1, 2, 3, 4, 5, 6, 7, 8])
 Atifnew = np.where(Atif % 2 == 1)
