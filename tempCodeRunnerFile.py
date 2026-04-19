@@ -1,11 +1,6 @@
-import numpy as np
-from numpy import random
 
-Atif = np.array([1, 2, 3, 4, 5])
-random.shuffle(Atif)
-print(Atif)
 
-import numpy as np
-from numpy import random
-Atif = np.array([1, 2, 3, 4, 5])
-print(random.permutation(Atif))
+import matplotlib.pyplot as plt
+import seaborn  as sns
+sns.displot([0, 1, 2, 3, 4, 5], hist = False)
+plt.show()
