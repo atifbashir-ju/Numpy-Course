@@ -11,7 +11,7 @@ Atif2 = np.concatenate((Atif, Atif1), axis = 1 )
 print(Atif2)
 
 import numpy as np
-Atif = np.array([1, 2, 3])
+Atif = np.array([1, 2, 3 ])
 Atif1 = np.array([4, 5, 6])
 Atif2 = np.stack((Atif, Atif1), axis = 1)
 print(Atif2)

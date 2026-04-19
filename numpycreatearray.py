@@ -1,11 +1,9 @@
-#now we will numpy ndarray object:-> it means creating N number of Arrays
-#the array object in numpy is called ndarray
+
 import numpy as np
 x = np.array([1, 2, 3, 4, 5])
 print((x))
 print(type(x))
 
-#we can also pass a list using tuple or any array like object with array() 
 import numpy as np
 y = np.array((1, 2, 3, 4, 5))
 print(y)
