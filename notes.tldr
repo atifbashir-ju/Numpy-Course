@@ -127,6 +127,54 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 342.73242690781865,
+			"y": 145.2714806867532,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:i3XkIskRfqyOsx_YPSbi5",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 16,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aBgaVBVV",
+			"typeName": "shape"
+		},
+		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
@@ -177,9 +225,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 595.2035710912728,
-			"y": 317.6002344305127,
-			"z": 0.6325189932579705,
+			"x": 462.6971316517944,
+			"y": 279.04766119814775,
+			"z": 0.7627400403855035,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -369,12 +417,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:i3XkIskRfqyOsx_YPSbi5",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:IN7nfGkFU08C8eRCGa5Ts"
+				"shape:i3XkIskRfqyOsx_YPSbi5"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:i3XkIskRfqyOsx_YPSbi5",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -468,6 +516,90 @@
 			"typeName": "shape"
 		},
 		{
+			"x": -353.66077220705535,
+			"y": 108.80656676027851,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:A8HvxVHBrH0lL_05-cAGt",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 657,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "8 Standard deviation (scale) = data kitna spread hai"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a9KNIzEl",
+			"typeName": "shape"
+		},
+		{
+			"x": -358.3743834720408,
+			"y": 87.38110648284592,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:iR3CCznxuLAlMlJhoVTqo",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 463.66668701171875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "7 loc = mean (average / center point)"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a83jUx8G",
+			"typeName": "shape"
+		},
+		{
 			"meta": {},
 			"id": "page:page",
 			"name": "Page 1",
@@ -507,7 +639,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 1045.3333740234375,
-				"h": 386
+				"h": 558
 			},
 			"insets": [
 				false,
@@ -534,6 +666,57 @@
 			"id": "instance:instance",
 			"currentPageId": "page:page",
 			"typeName": "instance"
+		},
+		{
+			"x": -359.5601843078939,
+			"y": 135.65704772139475,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:quj58HkNCsxMoi1YHrlRn",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 1615.666748046875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "9 "
+								},
+								{
+									"type": "text",
+									"marks": [
+										{
+											"type": "bold"
+										}
+									],
+									"text": "Normal distribution = aisa data pattern jisme values center ke around concentrated hoti hain aur extremes kam hote hain"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aA7WxLaV",
+			"typeName": "shape"
 		}
 	]
 }
