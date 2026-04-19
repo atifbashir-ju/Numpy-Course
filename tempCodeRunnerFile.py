@@ -1,4 +1,3 @@
-import numpy as np
-Atif = np.array([1, 2, 3, 4, 5, 6, 7, 8,])
-Atif1 = Atif.reshape(2, 2)
-print(Atif1)
+import numpy as np 
+Atif = np.random.choice([3, 5, 7, 9], size=(3, 5), p=[0.1, 0.3, 0.6, 0.0])
+print(Atif)
