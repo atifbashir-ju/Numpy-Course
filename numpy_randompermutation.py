@@ -1,3 +1,4 @@
+#permutation: arrangment of elements
 import numpy as np
 from numpy import random
 
