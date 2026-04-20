@@ -1,3 +1,4 @@
 import numpy as np
-Atif = np.array([1, 2, 3, 4])
-print(Atif[3])
+from numpy import random
+Atif = np.array([1, 2, 3, 4, 5])
+print(random.permutation(Atif))
