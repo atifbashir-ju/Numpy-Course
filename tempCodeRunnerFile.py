@@ -1,4 +1,5 @@
 import numpy as np
-from numpy import random
-Atif = np.array([1, 2, 3, 4, 5])
-print(random.permutation(Atif))
+x = [1, 2, 3, 4]
+y = [4, 5, 6, 7]
+z = np.add(x,y)
+print(z)

@@ -1,4 +1,4 @@
-#petro distribution: 80:20 ratio (20% factors cause 80 outcome)
+#patero distribution: 80:20 ratio (20% factors cause 80 outcome)
 import numpy as np
 from numpy import random
 import matplotlib.pyplot as plt
